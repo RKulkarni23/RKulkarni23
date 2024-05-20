@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkulkarni23&label=Profile%20views&color=0e75b6&style=flat" alt="rkulkarni23" /> </p>
 
+- 🔭 I’m currently studying **API Automation**
+
 - 🌱 I’m currently learning **Jmeter**
+
+- I worked on **Manual and API projects**
 
 - 📫 How to reach me **kulkarnirevati023@gmail.com**
 
