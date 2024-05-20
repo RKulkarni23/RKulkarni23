@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Revati Kulkarni</h1>
 <h3 align="center">A passionate Test Engineer from India</h3>
 
+<img align="right" alt="testing" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkulkarni23&label=Profile%20views&color=0e75b6&style=flat" alt="rkulkarni23" /> </p>
 
-- 🔭 I’m currently studying **API Automation**
+- 🌱 I’m currently learning **Jmeter, API Automation**
 
-- 🌱 I’m currently learning **Jmeter**
-
-- I worked on **Manual and API projects**
+- ⚡ I worked on **Manual and API projects**
 
 - 📫 How to reach me **kulkarnirevati023@gmail.com**
 
