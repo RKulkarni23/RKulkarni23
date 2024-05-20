@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Revati Kulkarni</h1>
 <h3 align="center">A passionate Test Engineer from India</h3>
 
-<img align="right" alt="coding" width="400"src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkulkarni23&label=Profile%20views&color=0e75b6&style=flat" alt="rkulkarni23" /> </p>
 
 - 🌱 I’m currently learning **Jmeter**
